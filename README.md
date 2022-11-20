@@ -34,3 +34,11 @@
   4) I used the Estimator with options defined in the cell to calculate each expectation value
 </p>
 
+<h1> Installing Qiskit </h1>
+ 
+<div align="left">
+      <a href="https://youtu.be/1kRfHNUbkrg">
+         <img src="https://img.youtube.com/vi/1kRfHNUbkrg/0.jpg" style="width:100%;">
+      </a>
+</div>
+
